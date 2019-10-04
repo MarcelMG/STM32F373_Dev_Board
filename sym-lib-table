@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ap7215)(type Legacy)(uri /home/marcel/PCB/my_components/ap7215.lib)(options "")(descr ""))
+  (lib (name tpd2e009)(type Legacy)(uri /home/marcel/PCB/my_components/tpd2e009.lib)(options "")(descr ""))
+)
